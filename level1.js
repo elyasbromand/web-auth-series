@@ -1,3 +1,8 @@
+// Level 1: Email/password authentication without encryption
+// To use this code, align it with your project configuration
+// This level is highly insecure and is not recommended using in real-world projects
+// It's level 1, so we will increase the security step by step, level by level
+
 app.post("/login", async (req, res) => {
   const email = req.body.username;
   const password = req.body.password;
