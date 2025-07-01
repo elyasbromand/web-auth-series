@@ -5,8 +5,7 @@ This repository supports my LinkedIn series on web authentication, exploring six
 
 ## Files
 - level1.js: Email/password authentication without encryption
-- level2.js: (to be added)
-- level3.js: (to be added)
+- level2_3.js: Email/password authentication with Hashing and Salting
 - level4.js: (to be added)
 - level5.js: (to be added)
 - level6.js: (to be added)
