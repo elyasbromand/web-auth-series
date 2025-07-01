@@ -2,7 +2,7 @@
 // To use this code, align it with your project configuration
 // This level is in great security level which can be used in many systems
 
-//Tegister
+//Register
 app.post("/register", async (req, res) => {
   const email = req.body.username;
   const password = req.body.password;
